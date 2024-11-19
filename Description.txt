@@ -1,0 +1,2 @@
+firstly we create a file with extension of js and write a javascript code to print the even and odd numbers from array
+In second we write a js code to print the sum of the elements in the array
